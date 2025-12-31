@@ -18,3 +18,4 @@ index.html
 
 ![todo list](Capture.png)
 
+<img width="1920" height="1030" alt="Capture" src="https://github.com/user-attachments/assets/957b0463-1290-4795-bdd3-c2e3346ff2be" />
